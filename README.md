@@ -11,13 +11,21 @@ AI 기반 하수관로 관리 솔루션
  - 촬영거리 ocr 적용(고정 ROI)
  - 5600X, 32GB, RTX3070 8GB 기준, 빠른 추론 시간(약 20fps 이상)
  - Flask를 활용한 Local Server 기반의 web application
- - Image 및 Video 입력
- - Image 및 Video 출력
+ - Image/Video 입력 및 출력
 
 SAS의 예제 이미지들:
 
+- Image to Image
 ![Example 0](data/SAS_example_0.gif)
 
+- Images to Images
+![Example 1](data/SAS_example_1.gif)
+
+- Video to Video
+![Example 2](data/SAS_example_2.gif)
+
+- Video to Images
+![Example 3](data/SAS_example_3.gif)
 
 # To do List
  - [ ] 결함 조사 보고서 자동 생성 모듈 개발 
